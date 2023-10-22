@@ -9,3 +9,4 @@ test-repo-7
 test-repo-8
 test-repo-9
 test-repo-10
+test-repo-11
