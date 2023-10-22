@@ -10,3 +10,4 @@ test-repo-8
 test-repo-9
 test-repo-10
 test-repo-11
+test-repo-12
