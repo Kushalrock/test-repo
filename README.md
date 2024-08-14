@@ -1,2 +1,2 @@
 # test-repo
-Closes 103
+Closes 106
